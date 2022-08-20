@@ -370,7 +370,7 @@ const Dashboard = () => {
             <MapContainer center={[22.460750, 114.049130]} zoom={12} scrollWheelZoom={true}>
               <TileLayer
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png">
+                url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png">
                 </TileLayer>
 
               <button id="refreshButton">Refresh Button</button>
