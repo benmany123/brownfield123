@@ -1,6 +1,9 @@
 # Brownfield Dashboard
 A GIS-based online dashboard for visualizing the brownfield site on the map, determining the potential of the brownfield in housing development, and plotting the statistical results on the charts
 
+## Live Demo Link
+https://benmany123.github.io/brownfield123/
+
 ## 1. Map Interface
 ![image](https://user-images.githubusercontent.com/100986105/185743043-01ac8ccf-9cbb-47a6-aef7-ee134c9461f9.png)
 
