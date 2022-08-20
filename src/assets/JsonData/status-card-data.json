@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-receipt",
+        "count": "2,800",
+        "title": "Total Number of Brownfield"
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "960",
+        "title": "Number of Potential Brownfield"
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "1512.5",
+        "title": "Total Area of Brownfield(ha)"
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "737.3",
+        "title": "Total Area of Potential Brownfield(ha)"
+    }
+]
