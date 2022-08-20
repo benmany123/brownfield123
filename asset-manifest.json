@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/brownfield123/static/css/main.266d060c.css",
-    "main.js": "/brownfield123/static/js/main.5d025187.js",
+    "main.js": "/brownfield123/static/js/main.ad6c73c6.js",
     "static/js/27.abce07aa.chunk.js": "/brownfield123/static/js/27.abce07aa.chunk.js",
     "static/media/boxicons.svg": "/brownfield123/static/media/boxicons.045b05bf2dc119267a90.svg",
     "static/media/gis2.png": "/brownfield123/static/media/gis2.ac106f4d351102ca6ee8.png",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.266d060c.css",
-    "static/js/main.5d025187.js"
+    "static/js/main.ad6c73c6.js"
   ]
 }
