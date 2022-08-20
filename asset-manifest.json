@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/brownfield123/static/css/main.266d060c.css",
+    "main.js": "/brownfield123/static/js/main.bcb816bc.js",
+    "static/js/27.abce07aa.chunk.js": "/brownfield123/static/js/27.abce07aa.chunk.js",
+    "static/media/boxicons.svg": "/brownfield123/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/gis2.png": "/brownfield123/static/media/gis2.ac106f4d351102ca6ee8.png",
+    "static/media/view.png": "/brownfield123/static/media/view.b157a8bf9eae7c916961.png",
+    "static/media/gis.png": "/brownfield123/static/media/gis.b38fb1a9289cf24a5a9c.png",
+    "static/media/boxicons.eot": "/brownfield123/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/brownfield123/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/brownfield123/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/North.jpg": "/brownfield123/static/media/North.e344a27a1f7ff44ef122.jpg",
+    "static/media/tb.png": "/brownfield123/static/media/tb.d3491b7087f4d451624d.png",
+    "static/media/NorthMTR.jpg": "/brownfield123/static/media/NorthMTR.7d5039c9e9c2a06cf9d4.jpg",
+    "static/media/datatb.png": "/brownfield123/static/media/datatb.750126a4cad022ae7e2c.png",
+    "static/media/boxicons.woff2": "/brownfield123/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/Beagle.jpg": "/brownfield123/static/media/Beagle.770c8117d0cadfaad72f.jpg",
+    "static/media/logo.png": "/brownfield123/static/media/logo.05954473273e00c804dd.png",
+    "index.html": "/brownfield123/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.266d060c.css",
+    "static/js/main.bcb816bc.js"
+  ]
+}
